@@ -16,6 +16,7 @@ flowchart TD
     E --> F[Analyze Recovered Data]
     F --> G[Document Findings in Report]
 ```
+.
 ## DESIGN STEPS:
 ### Step 1 (Acquire Evidence Image):
 - Obtain the disk image in ```.dd``` or ```.E01``` format from a trusted forensic acquisition process.
